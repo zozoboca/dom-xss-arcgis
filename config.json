@@ -9,7 +9,7 @@
   "widgetOnScreen": {
     "widgets": [
       {
-        "uri": "HTTPS:/github.com/zozoboca/dom-xss-arcgis/Widget.js",
+        "uri": "HTTPS:/github.com/zozoboca/dom-xss-arcgis/blob/main/Widget.js",
         "position": { "left": 0, "top": 0, "right": 0, "height": 40, "relativeTo": "browser" }
       }
     ]
