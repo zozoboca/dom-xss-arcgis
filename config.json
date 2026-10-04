@@ -9,7 +9,7 @@
   "widgetOnScreen": {
     "widgets": [
       {
-        "uri": "./Widget.js",
+        "uri": "Widget.js",
         "position": { "left": 0, "top": 0, "right": 0, "height": 40, "relativeTo": "browser" }
       }
     ]
