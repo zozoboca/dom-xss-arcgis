@@ -1,0 +1,5 @@
+{
+  "name": "PoC", "platform": "HTML", "version": "2.30", "wabVersion": "2.30",
+  "author": "poc", "description": "poc", "copyright": "", "license": "",
+  "properties": { "inPanel": false, "hasUIFile": false, "hasConfig": false }
+}
